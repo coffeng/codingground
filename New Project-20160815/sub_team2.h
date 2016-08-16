@@ -1,0 +1,1 @@
+IMPORT int team1();
